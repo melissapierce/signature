@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>❣ Melissa Pierce Web Developer ❣</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <table cellspacing="20">
+    <td> <img src="https://pbs.twimg.com/profile_images/1105966996183830528/PbdJMb5q_400x400.jpg" alt="Melissa profile picture as a sparky web developer" /></td>
+    <td>
+      <h1>Melissa Pierce</h1>
+      <br />
+      <h2>Full Stack Web Developer</h2>
+      <h3><em>I make websites, it's what I do.</em></h3>
+    </td>
+  </table>
+
+
+  <p>I have been making websites for myself, my organizations, my start-ups, and my clients since 2012. </br>I ❤️ puzzles, children, and dressing up in costumes on special occassions or any given weekday.</p>
+  <hr />
+  <h2>Accomplishments and Courses</h2>
+  <table cellspacing="10">
+    <thead>
+      <tr>
+        <th align="left">Dates</th>
+        <th align="left">Work Experience</th>
+      </tr>
+
+    </thead>
+    <tbody>
+
+    </tbody>
+    <tr>
+      <td><strong>2012-Present</strong></td>
+      <td>Founder and Organizer of Chicago Women Developers Meet-up</td>
+    <tr>
+      <td><strong>2015-Present</strong></td>
+      <td>Freelance Web Design</td>
+    </tr>
+
+  </table>
+  <hr>
+  <h3>Skills</h3>
+  <table cellspacing="10">
+    <tr>
+      <td>HTML</td>
+      <td>⭐ ⭐ ⭐</td>
+      <td>CSS</td>
+      <td>⭐</td>
+    </tr>
+    <tr>
+      <td>Wordpress</td>
+      <td>⭐ ⭐ ⭐ ⭐</td>
+      <td>Email Marketing</td>
+      <td>⭐ ⭐ ⭐ ⭐</td>
+    </tr>
+  </table>
+<hr>
+  <h3>Sites I've Built</h3>
+  <ul>
+    <li><a href="ellementa.com">Ellementa</a></li>
+    <li><a href="vodiacapital.com">Vodia Capital</a></li>
+    <li><a href="commonsengine.org">Commons Engine</a></li>
+    <li><a href="http://firetapalehouse.com">FireTap Alehouse</a></li>
+  </ul>
+  <p>
+    <hr>
+    <table cellpadding="20">
+      <td>
+        <h3><a href="hobbies.html">See my Hobbies</a></H3>
+      </td>
+      <td>
+        <h3><a href="contact.html">Contact Me</a></h3>
+      </td>
+    </table>
+
+
+  </p>
+</body>
+
+</html>
